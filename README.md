@@ -64,7 +64,7 @@ They should communicate clearly, solve problems, strengthen brands and create re
 
 <br>
 
-# <img src="/assets/logo-lucascode.svg" width="48" align="center" alt="Logo Lucas Code" /> LUCAS CODE
+# <img src="/assets/logo-lucascode.svg" width="44" align="absmiddle" alt="Logo Lucas Code" /> LUCAS CODE
 [![badge](https://shieldcn.dev/badge/visit%20my-Website-011259.svg?logo=ri%3AFaGlobe&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://bio.site/lucascode)
 [![badge](https://shieldcn.dev/badge/contact-Lucas%20Code-0229a3.svg?logo=gmail&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](mailto:lvcas.code@gmail.com)
 [![badge](https://shieldcn.dev/badge/follow%20on-Instagram-0044cc.svg?logo=ri%3APiInstagramLogoFill&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://www.instagram.com/lvcascode)
@@ -83,7 +83,7 @@ You need to be **remembered**.
 
 <br>
 
-# <img src="/assets/logo-axis.svg" width="48" align="center" alt="Logo AXIS" /> [AXIS](https://github.com/lucas16716/axis) - Featured Project
+# <img src="/assets/logo-axis.svg" width="44" align="absmiddle" alt="Logo AXIS" /> [AXIS](https://github.com/lucas16716/axis) - Featured Project
 
 A modern Front-End foundation built with **Vite**, **Sass** and **JavaScript**.
 
@@ -128,13 +128,9 @@ Establish your guidelines, define your structure, and jump straight into buildin
 
 <div align="center">
 
-### Thanks for stopping by.
+### Thanks for stopping by
 
-*Always building.*
-
-*Always learning.*
-
-*See you in the next commit.*
+*See you in the next commit 👋*
 
 </div>
 
