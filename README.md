@@ -83,7 +83,7 @@ You need to be **remembered**.
 
 <br>
 
-# <img src="/assets/logo-axis.svg" width="44" align="absmiddle" alt="Logo AXIS" /> [AXIS](https://github.com/lucas16716/axis) - Featured Project
+# <img src="/assets/logo-axis.svg" width="44" align="absmiddle" alt="Logo AXIS" /> [AXIS](https://github.com/lvcascouto/axis) - Featured Project
 
 A modern Front-End foundation built with **Vite**, **Sass** and **JavaScript**.
 
