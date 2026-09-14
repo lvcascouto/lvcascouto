@@ -19,21 +19,21 @@
 <img src="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=light&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4" alt="Powered by Coffee">
 </picture>
 
-<a href="https://www.linkedin.com/in/lucas-coutoti/">
+<a href="https://www.linkedin.com/in/lucascouto-dev/">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=dark&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
 <img src="https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=light&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="LinkedIn">
 </picture>
 </a>
 
-<a href="mailto:lucasdesouza16716@gmail.com">
+<a href="mailto:lucasrcouto.dev@gmail.com">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=dark&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
 <img src="https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=light&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Email">
 </picture>
 </a>
 
-<a href="https://bio.site/lucascode">
+<a href="https://lvcascode.com.br">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=dark&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
 <img src="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=light&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Portfolio">
@@ -65,7 +65,7 @@ They should communicate clearly, solve problems, strengthen brands and create re
 <br>
 
 # <img src="/assets/logo-lucascode.svg" width="44" align="absmiddle" alt="Logo Lucas Code" /> LUCAS CODE
-[![badge](https://shieldcn.dev/badge/visit%20my-Website-011259.svg?logo=ri%3AFaGlobe&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://bio.site/lucascode)
+[![badge](https://shieldcn.dev/badge/visit%20my-Website-011259.svg?logo=ri%3AFaGlobe&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://lvcascode.com.br)
 [![badge](https://shieldcn.dev/badge/contact-Lucas%20Code-0229a3.svg?logo=gmail&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](mailto:lvcas.code@gmail.com)
 [![badge](https://shieldcn.dev/badge/follow%20on-Instagram-0044cc.svg?logo=ri%3APiInstagramLogoFill&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://www.instagram.com/lvcascode)
 
