@@ -13,7 +13,7 @@
 <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=dark&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4">
 <img src="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=light&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4" alt="Based in Brazil">
 </picture>
-  
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=dark&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4">
 <img src="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=light&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4" alt="Powered by Coffee">
@@ -33,7 +33,7 @@
 </picture>
 </a>
 
-<a href="https://lvcascode.com.br">
+<a href="https://www.lvcascode.com.br">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=dark&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
 <img src="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=light&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Portfolio">
@@ -42,88 +42,81 @@
 
 </p>
 
-I'm a **Front-End Developer** passionate about building meaningful digital experiences through **strategy, design and engineering**.
+I'm a **Front-End Developer** focused on crafting **accessible, high-performance, and pixel-perfect user interfaces**.
 
-Currently working at [**APCD**](https://www.linkedin.com/company/apcd-associa%C3%A7%C3%A3o-paulista-de-cirurgi%C3%B5es-dentistas/) while building **Lucas Code**, my own Web Development Studio.
+I translate visual direction into scalable interfaces, turning technical constraints into deliberate design decisions. For me, building a good interface goes beyond making it work — I care about **why it should exist, how it should feel, and how every detail contributes to the experience**, giving ideas structure, interfaces character, and every decision a clear purpose.
 
-I believe websites should do more than simply exist.
+I bridge the gap between **design and code**, bringing together visual clarity, thoughtful interaction and clean, scalable engineering.
 
-They should communicate clearly, solve problems, strengthen brands and create real value.
+#### What I Build
 
-#### What Drives Me
+- **Front-End Development**
+- **UI Engineering & Design Systems**
+- **Custom Websites & Digital Experiences**
+- **Accessibility, Performance & SEO**
+- **Creative Development**
+- **Open Source & Developer Tools**
 
-- Front-End Engineering
-- Creative Development
-- Design Systems
-- UI Engineering
-- Accessibility, Performance & SEO
-- Open Source
+#### Current Focus
 
-#### Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,vite,nodejs,git,github,figma"/>
+- **Front-End Developer at [APCD](https://www.linkedin.com/company/apcd-associa%C3%A7%C3%A3o-paulista-de-cirurgi%C3%B5es-dentistas/)** — Developing new features and components, maintaining legacy applications, and translating event prototypes into production-ready interfaces for high-traffic events such as [CIOSP](https://www.ciosp.com.br).
+
+- **Founder of Lucas Code** — Running my own Web Development Studio, focused on creating custom digital experiences for brands, professionals and businesses.
 
 <br>
 
 # <img src="/assets/logo-lucascode.svg" width="44" align="absmiddle" alt="Logo Lucas Code" /> LUCAS CODE
-[![badge](https://shieldcn.dev/badge/visit%20my-Website-011259.svg?logo=ri%3AFaGlobe&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://lvcascode.com.br)
+[![badge](https://shieldcn.dev/badge/visit%20my-Website-011259.svg?logo=ri%3AFaGlobe&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://www.lvcascode.com.br)
 [![badge](https://shieldcn.dev/badge/contact-Lucas%20Code-0229a3.svg?logo=gmail&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](mailto:lvcas.code@gmail.com)
 [![badge](https://shieldcn.dev/badge/follow%20on-Instagram-0044cc.svg?logo=ri%3APiInstagramLogoFill&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://www.instagram.com/lvcascode)
 
-My **Web Development Studio** focused on helping people, brands and businesses build a stronger online presence.
+**Lucas Code** is my independent Web Development Studio, where I combine **strategy, interface design and front-end engineering** to create custom digital experiences.
 
-Every project starts before the first line of code.
+Each project starts with understanding the **context, identity and goals** behind the idea — then translating them into structure, visual direction and technology.
 
-It starts with **strategy**, evolves through **structure** and **identity**, and comes to life through **technology**.
+I work across **websites, digital interfaces, Linkverse hubs and custom front-end solutions**, always looking for the balance between visual identity, usability and technical quality.
 
-Because in the digital world,
+The result should not only work well.
 
-**being online isn't enough.**
-
-You need to be **remembered**.
+It should feel **coherent, intentional and unmistakably its own**.
 
 <br>
 
 # <img src="/assets/logo-axis.svg" width="44" align="absmiddle" alt="Logo AXIS" /> [AXIS](https://github.com/lvcascouto/axis) - Featured Project
 
-A modern Front-End foundation built with **Vite**, **Sass** and **JavaScript**.
+A modern Front-End foundation built with **Vite, Sass and JavaScript**.
 
-AXIS eliminates repetitive project setup, delivering a highly organized architecture right out of the box.
+AXIS provides a structured starting point for web projects, combining **architecture, design tokens and reusable conventions** without getting in the way of the creative process.
 
-Establish your guidelines, define your structure, and jump straight into building it your own way.
+It was created to solve a problem I encountered repeatedly while building projects: spending time rebuilding the same foundation instead of focusing on the experience itself.
 
-> Structure first.  
-> Identity second.  
+> Structure first.
+> Identity second.
 > Code faster.
 
 *Build with structure. Scale with confidence.*
 
----
-
-# GitHub Analytics
+# GitHub Activity
 
 <div align="center">
 
-<!-- CÓDIGO ORIGINAL (VERCEL) - PAUSADO POR LIMITE DE BANDA
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=pt-br">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=default&hide_border=true&locale=pt-br" alt="Estatísticas do Lucas">
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lvcascouto&theme=transparent&hide_border=true&background=00000000&ring=0055FF&fire=0055FF&currStreakLabel=60A5FA&sideLabels=F2F5F9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=0044CC">
+<img height="180" src="https://streak-stats.demolab.com/?user=lvcascouto&theme=transparent&hide_border=true&background=00000000&ring=0044CC&fire=0044CC&currStreakLabel=0044CC&sideLabels=374151&currStreakNum=0229A3&sideNums=374151&dates=6B7280&stroke=0044CC" alt="GitHub Streak">
 </picture>
--->
 
-<!-- Estatísticas Gerais -->
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-github.pages.dev/api?username=lucas16716&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=pt-br">
-<img height="180" src="https://readme-stats-github.pages.dev/api?username=lucas16716&show_icons=true&theme=default&hide_border=true&locale=pt-br" alt="Estatísticas do Lucas">
+<source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lvcascouto&theme=transparent&hide_border=true&background=00000000&ring=0055FF&fire=0055FF&currStreakLabel=60A5FA&sideLabels=F2F5F9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=0044CC">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lvcascouto&theme=transparent&hide_border=true&background=00000000&ring=0044CC&fire=0044CC&currStreakLabel=0044CC&sideLabels=374151&currStreakNum=0229A3&sideNums=374151&dates=6B7280&stroke=0044CC" alt="Most Commit Language">
 </picture>
-  
-<!-- Streak (Dias Seguidos) -->
+
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lucas16716&theme=dark&hide_border=true&background=0D1117">
-<img height="180" src="https://streak-stats.demolab.com/?user=lucas16716&theme=default&hide_border=true" alt="Streak do Lucas">
+<source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lvcascouto&theme=transparent&hide_border=true&background=00000000&ring=0055FF&fire=0055FF&currStreakLabel=60A5FA&sideLabels=F2F5F9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF&stroke=0044CC">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lvcascouto&theme=transparent&hide_border=true&background=00000000&ring=0044CC&fire=0044CC&currStreakLabel=0044CC&sideLabels=374151&currStreakNum=0229A3&sideNums=374151&dates=6B7280&stroke=0044CC" alt="GitHub Stats">
 </picture>
 
 </div>
-  
+
 <br>
 
 <div align="center">
