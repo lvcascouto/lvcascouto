@@ -42,26 +42,26 @@
 
 </p>
 
-I'm a **Front-End Developer** focused on crafting **accessible, high-performance, and pixel-perfect user interfaces**.
+I'm a **Front-End Developer** focused on building **high-performance, accessible, responsive and pixel-perfect digital experiences**.
 
-I translate visual direction into scalable interfaces, turning technical constraints into deliberate design decisions. For me, building a good interface goes beyond making it work — I care about **why it should exist, how it should feel, and how every detail contributes to the experience**, giving ideas structure, interfaces character, and every decision a clear purpose.
+My work moves between two complementary disciplines: translating UI prototypes into faithful, scalable interfaces while turning technical constraints into consistent design solutions; and conceiving digital projects end to end, from visual direction and interface structure to code and implementation.
 
-I bridge the gap between **design and code**, bringing together visual clarity, thoughtful interaction and clean, scalable engineering.
+I work at the intersection of **design and engineering**, where visual clarity, thoughtful interaction and clean, scalable architecture come together. I care about the details that make an interface not only work well, but feel coherent, intentional and purposeful.
 
 #### What I Build
 
-- **Front-End Development**
+- **Front-End Engineering**
 - **UI Engineering & Design Systems**
 - **Custom Websites & Digital Experiences**
-- **Accessibility, Performance & SEO**
+- **Accessible, Performant & SEO-Ready Interfaces**
 - **Creative Development**
 - **Open Source & Developer Tools**
 
 #### Current Focus
 
-- **Front-End Developer at [APCD](https://www.linkedin.com/company/apcd-associa%C3%A7%C3%A3o-paulista-de-cirurgi%C3%B5es-dentistas/)** — Developing new features and components, maintaining legacy applications, and translating event prototypes into production-ready interfaces for high-traffic events such as [CIOSP](https://www.ciosp.com.br).
+- **Front-End Developer at [APCD](https://www.linkedin.com/company/apcd-associa%C3%A7%C3%A3o-paulista-de-cirurgi%C3%B5es-dentistas/)** – Developing new features and components, maintaining legacy applications, and translating UI prototypes into production-ready interfaces for high-visibility projects such as [CIOSP](https://www.ciosp.com.br).
 
-- **Founder of Lucas Code** — Running my own Web Development Studio, focused on creating custom digital experiences for brands, professionals and businesses.
+- **Founder of Lucas Code** – Building an independent Web Development Studio focused on custom digital solutions for brands, professionals and businesses.
 
 <br>
 
@@ -70,15 +70,13 @@ I bridge the gap between **design and code**, bringing together visual clarity, 
 [![badge](https://shieldcn.dev/badge/contact-Lucas%20Code-0229a3.svg?logo=gmail&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](mailto:lvcas.code@gmail.com)
 [![badge](https://shieldcn.dev/badge/follow%20on-Instagram-0044cc.svg?logo=ri%3APiInstagramLogoFill&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://www.instagram.com/lvcascode)
 
-**Lucas Code** is my independent Web Development Studio, where I combine **strategy, interface design and front-end engineering** to create custom digital experiences.
-
-Each project starts with understanding the **context, identity and goals** behind the idea — then translating them into structure, visual direction and technology.
-
-I work across **websites, digital interfaces, Linkverse hubs and custom front-end solutions**, always looking for the balance between visual identity, usability and technical quality.
-
-The result should not only work well.
-
-It should feel **coherent, intentional and unmistakably its own**.
+**Lucas Code** is my independent Web Development Studio, focused on building **custom digital experiences for brands, professionals and businesses**. 
+ 
+Each project begins with understanding the **context, identity and goals** behind the idea, then translating them into visual direction, structure and technology. 
+ 
+From **websites and digital interfaces to Linkverse hubs and custom front-end solutions**, I work across the full development process, connecting strategy, design and engineering to create experiences that are visually coherent, technically sound and built around a clear purpose. 
+ 
+The goal is simple: not just to build something that works, but to create something that **fits the brand, serves its audience and has a reason to exist**.
 
 <br>
 
